@@ -2,7 +2,7 @@
 
 Developer, gamer, cat lover, tea addict 🇮🇹🇪🇺
 
-Currently Sr Staff Engineer @ [ServiceNow](https://github.com/servicenow), working on the JavaScript scripting engine
+Currently Sr Staff Engineer @ [ServiceNow](https://github.com/servicenow) working on the [JavaScript engine](https://github.com/mozilla/rhino/).
 
 ## Links
 
